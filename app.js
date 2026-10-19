@@ -1,2 +1,1 @@
-console.log("Hola Git");
-console.log("Mi segundo cambio");
+console.log("Hola Git - segunda version");
